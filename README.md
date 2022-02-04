@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Hola, soy Ana Isabella</h1>
+<h1 align="center">Hola👋, soy Ana Isabella</h1>
 <h3 align="center">Soy estudiante de Ingenieria Electrónica en la Universidad Nacional de Colombia</h3>
 
 
